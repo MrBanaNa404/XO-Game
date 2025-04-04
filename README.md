@@ -3,8 +3,4 @@
 เป็นหน้าจอเกม Home
 
 2.หน้าเกม XO (xo.dart)
-เป็นหน้าต่างของเกม
-
-
-
-สร้าง AI โดยใช้ Minimax Algorithm
+เป็นหน้าต่างของเกมโดยจะเป็น Player VS AI ซึ่งใช้ Minimax Algorithm
