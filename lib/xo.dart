@@ -155,7 +155,7 @@ class XOBoard extends State<XOGame> {
                 message = "Winner: $winner!";
               }
               return Text(message, 
-              style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Colors.white)
+              style: const TextStyle(fontSize: 50, fontWeight: FontWeight.bold, color: Colors.white)
               );
             },
           ),
@@ -188,7 +188,7 @@ class XOBoard extends State<XOGame> {
           const SizedBox(height: 20),
           ElevatedButton(
             onPressed: restartgame,
-            child: const Text("Restart", style: TextStyle(fontSize: 18)),
+            child: const Text("Restart", style: TextStyle(fontSize: 24)),
           ),
           ElevatedButton(
             onPressed: () {
@@ -199,7 +199,7 @@ class XOBoard extends State<XOGame> {
                 ),
               );
             },
-            child: const Text("Home", style: TextStyle(fontSize: 18)),
+            child: const Text("Home", style: TextStyle(fontSize: 24)),
           ),
         ],
       ),
