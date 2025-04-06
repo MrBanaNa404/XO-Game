@@ -28,7 +28,7 @@ class Home extends StatelessWidget {
         children: [
           const Text(
             "XO Game!!!!!",
-            style: TextStyle(fontSize: 80, fontWeight: FontWeight.bold),
+            style: TextStyle(fontSize: 60, fontWeight: FontWeight.bold),
           ),
           const SizedBox(height: 20),
           Center(
