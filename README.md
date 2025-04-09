@@ -3,7 +3,7 @@
 
 ==หน้าต่าง Home==
 
-![image](https://cdn.discordapp.com/attachments/1094611107236294657/1359629636639784970/IMG_0676.png?ex=67f82d46&is=67f6dbc6&hm=d08d3fa72bd7be9b324cc8a218c01f9455e96abe4cb0611499e03422ac6eefbd&)
+![image](https://github.com/user-attachments/assets/b3d268f0-c215-4140-9f81-e90e46b64572)
 
 2.หน้าต่างเกม XO (game.dart)
 เป็นหน้าต่างของเกมโดยจะการเล่นกับ AI ซึ่งใช้ Minimax Algorithm ในการสร้าง AI
@@ -14,7 +14,7 @@
 
 ==การทำงานของโปรแกรม==
 
-![image](https://github.com/user-attachments/assets/4328b202-6082-4ec4-a01e-d9b27b3ebfe7)
+![image](https://github.com/user-attachments/assets/f9dcf5af-9ea0-4bda-8137-50a4db0d4de2)
 
 3.หน้าต่าง History และ Replay
 เป็นหน้าต่างที่ดูประวัติการเล่นของเกมที่ผ่านมา โดนใช้ sqlite
