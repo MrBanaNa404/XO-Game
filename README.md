@@ -3,7 +3,7 @@
 
 ==หน้าต่าง Home==
 
-![image](https://github.com/user-attachments/assets/b3d268f0-c215-4140-9f81-e90e46b64572)
+![image](https://cdn.discordapp.com/attachments/1094611107236294657/1359629636639784970/IMG_0676.png?ex=67f82d46&is=67f6dbc6&hm=d08d3fa72bd7be9b324cc8a218c01f9455e96abe4cb0611499e03422ac6eefbd&)
 
 2.หน้าต่างเกม XO (.dart)
 เป็นหน้าต่างของเกมโดยจะการเล่นกับ AI ซึ่งใช้ Minimax Algorithm ในการสร้าง AI
